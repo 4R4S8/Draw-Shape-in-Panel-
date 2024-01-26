@@ -1,0 +1,10 @@
+C:\Users\4R4S8\source\repos\Drawing Shapes\Drawing Shapes\bin\Debug\Drawing Shapes.exe.config
+C:\Users\4R4S8\source\repos\Drawing Shapes\Drawing Shapes\bin\Debug\Drawing Shapes.exe
+C:\Users\4R4S8\source\repos\Drawing Shapes\Drawing Shapes\bin\Debug\Drawing Shapes.pdb
+C:\Users\4R4S8\source\repos\Drawing Shapes\Drawing Shapes\obj\Debug\Drawing Shapes.csproj.AssemblyReference.cache
+C:\Users\4R4S8\source\repos\Drawing Shapes\Drawing Shapes\obj\Debug\Drawing_Shapes.Properties.Resources.resources
+C:\Users\4R4S8\source\repos\Drawing Shapes\Drawing Shapes\obj\Debug\Drawing Shapes.csproj.GenerateResource.cache
+C:\Users\4R4S8\source\repos\Drawing Shapes\Drawing Shapes\obj\Debug\Drawing Shapes.csproj.CoreCompileInputs.cache
+C:\Users\4R4S8\source\repos\Drawing Shapes\Drawing Shapes\obj\Debug\Drawing Shapes.exe
+C:\Users\4R4S8\source\repos\Drawing Shapes\Drawing Shapes\obj\Debug\Drawing Shapes.pdb
+C:\Users\4R4S8\source\repos\Drawing Shapes\Drawing Shapes\obj\Debug\Drawing_Shapes.Form1.resources
